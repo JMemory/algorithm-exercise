@@ -4,4 +4,7 @@ package org.yuhang.algorithm.binarytree;
  * Created by yuhang on 2018/3/20.
  */
 public class BalancedTree {
+    public static void main(String[] args){
+        System.out.println("git add");
+    }
 }
